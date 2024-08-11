@@ -1,5 +1,5 @@
 
-## 🙋‍♂️ Developer
+## 🙋‍♂️ 팀원 소개
 <table>
   <tbody>
     <tr>
