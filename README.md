@@ -25,6 +25,6 @@
 |:-:|:-:|:-:|:-:|
 |FE 팀원: 조현정<br/>[@HyunJungJo98](https://github.com/HyunJungJo98)|FE 팀원: 유의진<br/>[@ejinn1](https://github.com/ejinn1)|BE 팀원: 이다은<br/>[@llynn97](https://github.com/llynn97)|BE 팀원: 김태훈<br/>[@TaeHoon0](https://github.com/TaeHoon0)|
 
-## 개발 기간
+## :date: 개발 기간
 전체 개발 기간: 2024-06-25 ~ 2024-08-13
 
