@@ -28,14 +28,3 @@
 ## :calendar: 개발 기간
 전체 개발 기간: 2024-06-25 ~ 2024-08-13
 
-## 🙋‍♂️ 팀원 소개
-
-| <img src="https://avatars.githubusercontent.com/u/79002373?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/101779861?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/62873417?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/48711163?v=4" width="150" height="150"/> |
-| --- | --- | --- | --- |
-| FE 팀원: 조현정<br/>https://github.com/HyunJungJo98 | FE 팀원: 유의진<br/>https://github.com/ejinn1 | BE 팀원: 이다은<br/>https://github.com/llynn97 | BE 팀원: 김태훈<br/>https://github.com/TaeHoon0 |
-
-## 🙋‍♂️ 팀원 소개
-
-| <img src="https://avatars.githubusercontent.com/u/79002373?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/101779861?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/62873417?v=4" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/48711163?v=4" width="150" height="150"/> |
-| --- | --- | --- | --- |
-| FE 팀원: 조현정<br/>https://github.com/HyunJungJo98 | FE 팀원: 유의진<br/>https://github.com/ejinn1 | BE 팀원: 이다은<br/>https://github.com/llynn97 | BE 팀원: 김태훈<br/>https://github.com/TaeHoon0 |
